@@ -1,0 +1,4 @@
+Mayro: Vst Effect / Gform : Pitch : -5.1 / Formant : -1.5
+Luggy: Vst Effect / Gform : Pitch : -4.3 / Formant : -1.0
+Amplify: 10.0 Allow clipping
+8000 Hz 16 bit wav

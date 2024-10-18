@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 86743541df3a8a94c8a69dbbf99a17f7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: default
+    400000: //RootNode
+    400002: default
+    2100000: wallio2
+    2100002: Wallio
+    2100004: Wallio3
+    2100006: wallio2.002
+    2100008: wallio2.004
+    2100010: wallio2.005
+    2100012: floorass
+    2100014: Wallio3.004
+    2100016: Wallio.003
+    2100018: wallio2.007
+    2100020: wallio2.008
+    2100022: wallio2.009
+    2100024: floorass.002
+    2100026: floorass.003
+    2100028: floorass.004
+    2100030: floorass.005
+    2100032: floorass.006
+    2100034: floorass.007
+    2100036: floorass.008
+    2100038: floorass.009
+    2100040: floorass.010
+    2100042: wallio2.010
+    2100044: wallio2.011
+    2100046: wallio2.012
+    2100048: redwallio]
+    2100050: puprlio
+    2100052: r
+    2100054: wallio2.014
+    2100056: wallio2.015
+    2100058: wallio2.013
+    2100060: wallio2.016
+    2100062: roofio
+    2100064: floorass.020
+    2100066: floorass.021
+    2100068: floorass.022
+    2100070: floorass.023
+    2100072: floorass.024
+    2100074: floorass.001
+    2100076: floorass.011
+    2100078: floorass.012
+    2100080: floorass.013
+    2100082: floorass.014
+    2300000: default
+    3300000: default
+    4300000: default
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallio
+    second: {fileID: 2100000, guid: 539b80a0e607e5a41b9d5b5ac4d96641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallio.003
+    second: {fileID: 2100000, guid: 5fa9cee7a935f774ebb0420357984e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallio3
+    second: {fileID: 2100000, guid: ab3a119c8e71e88468159a7fdd047f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallio3.004
+    second: {fileID: 2100000, guid: 93a5511e457e1fc449d09f42fdba4971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass
+    second: {fileID: 2100000, guid: 85dad5b10e6cf6c46832e476caaa0e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.001
+    second: {fileID: 2100000, guid: b0d89a294d6225a4d922f52114466cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.002
+    second: {fileID: 2100000, guid: dac8ffd951dcdf148bb3ebe5f40bde3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.003
+    second: {fileID: 2100000, guid: 01f2b31a1b0868245b3d2de6e7dbf65a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.004
+    second: {fileID: 2100000, guid: 9ff8a6399b805aa44bbcd8fa96774ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.005
+    second: {fileID: 2100000, guid: b65e09089d7136f49a06a7231a52cda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.006
+    second: {fileID: 2100000, guid: eeae1b18f588e684db44125f268efbd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.007
+    second: {fileID: 2100000, guid: 65a7b07ecfa95f640bbe68130e9d4290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.008
+    second: {fileID: 2100000, guid: 4abf908f7ea47b04cbe370a113118123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.009
+    second: {fileID: 2100000, guid: 71f97d59dc5ba8e4b92b3ec981e9bfb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.010
+    second: {fileID: 2100000, guid: 6645209669175f7499c74cab55656f8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.011
+    second: {fileID: 2100000, guid: e46c9026ce0091f408c797d5e9a9834b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.012
+    second: {fileID: 2100000, guid: 0a87f69f529372247ab9304961394297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.013
+    second: {fileID: 2100000, guid: 4c09a6ca853f6b04ea85920f012f2b17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.014
+    second: {fileID: 2100000, guid: 39781911c8837ba44bcdef2e89dfeefa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.020
+    second: {fileID: 2100000, guid: c648d374c9b695242bb071c1fd4555fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.021
+    second: {fileID: 2100000, guid: fb93709028a22214198eb807533f52db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.022
+    second: {fileID: 2100000, guid: ac803c1d2b2a95f4f91f205ed0315ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.023
+    second: {fileID: 2100000, guid: 8f936a51755e34f4281523a1d49aeebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorass.024
+    second: {fileID: 2100000, guid: 6369ce86387dec548a66fc5037f42701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: puprlio
+    second: {fileID: 2100000, guid: 16677d3d60e25be49b954ebfb6104bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: r
+    second: {fileID: 2100000, guid: 9a4fe19e759f80a4e8471db0ce64cbb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redwallio]
+    second: {fileID: 2100000, guid: bf57ed125732f6542949464b2081fdb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roofio
+    second: {fileID: 2100000, guid: bfc4ad1e29f251b47b423634e4d43089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2
+    second: {fileID: 2100000, guid: ae3493cbfb2a37447815755439ed17e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.002
+    second: {fileID: 2100000, guid: 00c35bf90ca4bf14a853a109b69a0e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.004
+    second: {fileID: 2100000, guid: 45bbd9a1524a5a941b188741f56b79ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.005
+    second: {fileID: 2100000, guid: 6021ab856bef2da428be2b7a410bc336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.007
+    second: {fileID: 2100000, guid: 5c4ef68fce6353743ae6b11c21d24088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.008
+    second: {fileID: 2100000, guid: 90ad656f1679b0447abfc508b093c21a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.009
+    second: {fileID: 2100000, guid: 2f1a013128a7bcf4886c2232d77e81c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.010
+    second: {fileID: 2100000, guid: dc83037bb57b2b04680636d5af1cc0de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.011
+    second: {fileID: 2100000, guid: 56e21d707c18e1f4fa2744f01446a6aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.012
+    second: {fileID: 2100000, guid: c888e58f3254025408dae88256427957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.013
+    second: {fileID: 2100000, guid: 4efa2aedc50f71a41b1f59993f3fcde2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.014
+    second: {fileID: 2100000, guid: d2b8f7e10ca4f3740b22bfe773886db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.015
+    second: {fileID: 2100000, guid: 7ec52e4b32f12ea4d8c7124ae1fc46e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallio2.016
+    second: {fileID: 2100000, guid: c8f7ac838693c934db60726a8ee998ea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
