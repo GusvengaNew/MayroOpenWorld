@@ -57,6 +57,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Basement.unity
     guid: bf820f1bb23d8084284c2b22ebb8ac16
   - enabled: 1
+    path: Assets/Scenes/Island.unity
+    guid: a23b67412b60ff746a2bc01734fddac3
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: d6e45991789e86e47baf753d49eff220
+  - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: 82dddaf5caef7f14abd4cfe746ebfeb1
   - enabled: 1
